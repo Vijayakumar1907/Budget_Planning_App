@@ -5,5 +5,5 @@
         app:fontProviderPackage="com.google.android.gms"
         app:fontProviderQuery="casual"
         app:fontProviderCerts="@array/com_google_android_gms_fonts_certs"
-    tools:ignore="FontValidation,MissingDefaultResource">
+    tools:ignore="FontValidation">
 </font-family>
