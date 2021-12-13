@@ -14,4 +14,9 @@
     <color name="black_dark_one">#232323</color>
     <color name="black_light_one">#787878</color>
     <color name="black_light_two">#F8F4F4</color>
+    <color name="stroke_color">#1F000000</color>
+    <color name="stroke_error_color">#FF0000</color>
+    <color name="Login_btn_color">#018487</color>
+    <color name="google_background">#F2F2F2</color>
+    <color name="google_text">#232323</color>
 </resources>

@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Paavai_Budget_Plan">
         <activity
+            android:name=".DashBoard"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
             android:name=".Register"
             android:exported="false" />
         <activity

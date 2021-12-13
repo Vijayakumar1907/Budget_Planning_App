@@ -4,10 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/HP/AndroidStudioProjects/Paavai_Budget_Plan/app/src/main/res/drawable/btnbck.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Paavai_Budget_Plan/app/src/main/res/drawable/google_background.xml" value="0.14722222222222223" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Paavai_Budget_Plan/app/src/main/res/drawable/gradient_test.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Paavai_Budget_Plan/app/src/main/res/drawable/ic_frame_gradient.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Paavai_Budget_Plan/app/src/main/res/drawable/lg_btn_pass.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Paavai_Budget_Plan/app/src/main/res/drawable/login_btn_backround.xml" value="0.14722222222222223" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Paavai_Budget_Plan/app/src/main/res/font/.xml" value="0.14074074074074075" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Paavai_Budget_Plan/app/src/main/res/font/cert.xml" value="0.13703703703703704" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Paavai_Budget_Plan/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Paavai_Budget_Plan/app/src/main/res/layout/login.xml" value="0.12" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Paavai_Budget_Plan/app/src/main/res/layout/register.xml" value="0.16" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Paavai_Budget_Plan/app/src/main/res/layout/splash_screen.xml" value="0.25" />
       </map>
     </option>
   </component>
